@@ -10,7 +10,7 @@ click==8.0.3
 colorama==0.4.4
 coverage==6.2
 docutils==0.18.1
-fastapi==0.70.1
+fastapi==0.89.1
 greenlet==1.1.2
 h11==0.12.0
 idna==3.3
